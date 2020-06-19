@@ -15,28 +15,40 @@ subtitle = "What I can do"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
+  icon = "file"
+  icon_pack = "fas"
+  name = "Data Modeling"
+  description = "5 Years"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "MarkLogic"
+  description = "4 Years"
+
+[[feature]]
   icon = "node"
   icon_pack = "fab"
   name = "Node.js"
   description = "3 Years"
 
 [[feature]]
-    icon = "js"
-    icon_pack = "fab"
-    name = "JavaScript"
-    description = "3 Years"
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "3 Years"
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "XQuery"
+  description = "3 Years"
     
 [[feature]]
-    icon = "database"
-    icon_pack = "fas"
-    name = "MarkLogic"
-    description = "5 Years"
-    
-[[feature]]
-    icon = "database"
-    icon_pack = "fas"
-    name = "Mongo"
-    description = "1 Year"
+  icon = "database"
+  icon_pack = "fas"
+  name = "Mongo"
+  description = "1 Year"
 
 [[feature]]
   icon = "r-project"
@@ -65,7 +77,7 @@ subtitle = "What I can do"
 [[feature]]
     icon = "html5"
     icon_pack = "fab"
-    name = "CSS"
+    name = "HTML 5"
     description = "2 Years"
     
 [[feature]]

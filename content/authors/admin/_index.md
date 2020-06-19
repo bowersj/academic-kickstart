@@ -22,14 +22,10 @@ bio: I'm interested in JS performance, Data Modeling, and Algorithms
 
 interests:
 - Javascript
-- Python
 - XQuery
-- Data Modeling JSON
-- Data Modeling XML
-- [MarkLogic](https://www.marklogic.com/)
-- [Mongo](https://www.mongodb.com/)
-- Linear Regression
-- statistical tests
+- Data Modeling
+- MarkLogic
+- Mongo
 
 education:
   courses:
