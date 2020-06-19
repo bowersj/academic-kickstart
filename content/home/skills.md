@@ -30,45 +30,7 @@ subtitle = "What I can do"
     name = "MarkLogic"
     description = "5 Years"
     
-[[feature]]
-    name = "Mongo"
-    description = "1 Years"
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "1 Year"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "1 Year"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "1 Year"
-    
-[[feature]]
-    icon = "css3-alt"
-    icon_pack = "fab"
-    name = "CSS"
-    description = "2 Years"
-    
-[[feature]]
-    icon = "html5"
-    icon_pack = "fab"
-    name = "CSS"
-    description = "2 Years"
-    
-[[feature]]
-    icon = "github"
-    icon_pack = "fab"
-    name = "GitHub"
-    description = "5 Years"
 
 # Uncomment to use emoji icons.
 # [[feature]]
