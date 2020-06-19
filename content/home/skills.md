@@ -27,10 +27,14 @@ subtitle = "What I can do"
     description = "3 Years"
     
 [[feature]]
+    icon = "database"
+    icon_pack = "fas"
     name = "MarkLogic"
     description = "5 Years"
     
 [[feature]]
+    icon = "database"
+    icon_pack = "fas"
     name = "Mongo"
     description = "1 Year"
 
