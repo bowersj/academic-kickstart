@@ -21,19 +21,15 @@ organizations:
 bio: I'm interested in JS performance, Data Modeling, and Algorithms
 
 interests:
-- Programming
-    - Javascript
-    - Python
-    - XQuery
-- Data Modeling
-    - JSON
-    - XML
-- Databases
-    - MarkLogic
-    - Mongo
-- Data Analytics
-    - Linear Regression
-    - statistical tests
+- Javascript
+- Python
+- XQuery
+- Data Modeling JSON
+- Data Modeling XML
+- [MarkLogic](https://www.marklogic.com/)
+- [Mongo](https://www.mongodb.com/)
+- Linear Regression
+- statistical tests
 
 education:
   courses:
@@ -68,10 +64,10 @@ email: ""
 # - Visitors
 ---
 
-Josh Bowers is a professional full stack developer. His interests are in
-math, science, programing, and data modeling among other things. He 
-spends most of his time learning new algorithms, debating data modeling
-principals with his father, [Mike Bowers](https://www.linkedin.com/in/michaeltbowers/)
+Josh Bowers is a professional full stack developer. His interests are
+math, statistics, science, programing, and data modeling among other 
+things. He spends most of his time learning new algorithms, debating 
+data modeling principals with his father, [Mike Bowers](https://www.linkedin.com/in/michaeltbowers/)
 and playing Age of Empires.
 
 

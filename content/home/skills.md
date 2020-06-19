@@ -25,12 +25,20 @@ subtitle = "What I can do"
     icon_pack = "fab"
     name = "JavaScript"
     description = "3 Years"
+    
+[[feature]]
+    name = "MarkLogic"
+    description = "5 Years"
+    
+[[feature]]
+    name = "Mongo"
+    description = "1 Year"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "1 Year"
+  description = "2 Years"
   
 [[feature]]
   icon = "python"
