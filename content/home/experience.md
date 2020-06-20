@@ -18,18 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Full Stack Developer"
+  company = "Bowers Programming"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Utah"
+  date_start = "2018-04-18"
   date_end = ""
   description = """
-  Responsibilities include:
+  <strong>Highlights</strong>:
+  * Helped Design the next generation schema language
+  * Built Dynamic Backend in [Node.js](https://nodejs.org/en/about/)
+  * Built Dynamic Front End using [Webix](https://webix.com/) a JS framework
+  <br/>
+  <br/>
   
-  * Analysing
-  * Modelling
-  * Deploying
+  <strong>Responsibilities included</strong>:
+  
+  * Help design Schema language for modeling connected data 
+  * Build the implementation of Schema language
+  * Design and build templates for form generation
+  * Design and build Dynamic services to in [Node.js](https://nodejs.org/en/about/)
   """
 
 [[experience]]
