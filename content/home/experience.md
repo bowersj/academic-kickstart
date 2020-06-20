@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   <br/>
   <br/>
   
-  <strong>Responsibilities included</strong>:
+  <strong>Responsibilities include</strong>:
   
   * Help design Schema language for modeling connected data 
   * Build the implementation of Schema language
@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   <br/>
   <br/>
   
-  <strong>Responsibilities included</strong>:
+  <strong>Responsibilities include</strong>:
   
   * Maintain MarkLogic instance
   * Build queries for analytics
@@ -78,7 +78,7 @@ date_format = "Jan 2006"
   <br/>
   <br/>
   
-  <strong>Responsibilities included</strong>:
+  <strong>Responsibilities include</strong>:
   
   * Help to maintain and improve [Mormon Overland Travels](https://history.churchofjesuschrist.org/overlandtravel/) site
   * Help to maintain Node.js backend
@@ -101,7 +101,7 @@ date_format = "Jan 2006"
   <br/>
   <br/>
   
-  <strong>Responsibilities included</strong>:
+  <strong>Responsibilities include</strong>:
   
   * Help to maintain and improve the company's flagship website, [churchofjesuschrist.org](https://www.churchofjesuschrist.org/?lang=eng)
   * Help to maintain Node.js backend applications

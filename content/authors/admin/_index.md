@@ -63,7 +63,7 @@ email: ""
 Josh Bowers is a professional full stack developer. His interests are
 math, statistics, science, programing, and data modeling among other 
 things. He spends most of his time learning new algorithms, debating 
-data modeling principals with his father, [Mike Bowers](https://www.linkedin.com/in/michaeltbowers/)
+data modeling principles with his father, [Mike Bowers](https://www.linkedin.com/in/michaeltbowers/)
 and playing Age of Empires.
 
 
