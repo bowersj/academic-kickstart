@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "What I can do"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -15,7 +15,7 @@ subtitle = "What I can do"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "file"
+  icon = "project-diagram"
   icon_pack = "fas"
   name = "Data Modeling"
   description = "5 Years"
