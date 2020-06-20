@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   description = """
   <strong>Highlights</strong>:
   * Built queries in MarkLogic using XQuery.
-  * Implemented and tuned data load algorithms with validation. 
+  * Taught how MarkLogic works internally. 
   * Implemented Elastic Search and Logstash to process MarkLogic logs.
   <br/>
   <br/>
