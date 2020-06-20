@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   description = """
   <strong>Highlights</strong>:
   * Built queries in MarkLogic using XQuery.
-  * Taught how MarkLogic works internally. 
+  * Taught how [MarkLogic works internally](https://developer.marklogic.com/learn/inside-marklogic-server/). 
   * Implemented Elastic Search and Logstash to process MarkLogic logs.
   <br/>
   <br/>
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   date_end = "2017-04-01"
   description = """
   <strong>Highlights</strong>:
-  * Taught MarkLogic to coworkers
+  * Taught [MarkLogic](https://www.marklogic.com/) to coworkers
   * Wrote and tuned queries
   * Improved data structure of XML documents stored in MarkLogic
   * Revamped search engine algorithms to fit new business requirements 
