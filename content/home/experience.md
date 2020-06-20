@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   <strong>Responsibilities included</strong>:
   
   * Maintain MarkLogic instance
-  * Built queries for analytics
+  * Build queries for analytics
   * import/export data using MLCP
   """
 
