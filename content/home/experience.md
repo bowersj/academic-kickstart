@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -33,12 +33,25 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "MarkLogic Consultant"
+  company = "AutoLiv"
+  company_url = "https://www.autoliv.com/"
+  location = "Utah"
+  date_start = "2017-04-01"
+  date_end = "2018-01-01"
+  description = """
+  <strong>Highlights</strong>:
+  * Built queries in MarkLogic using XQuery.
+  * Implemented and tuned data load algorithms with validation. 
+  * Implemented Elastic Search and Logstash to process MarkLogic logs.
+  <br/>
+  <br/>
+  
+  <strong>Responsibilities included</strong>:
+  
+  * Maintain MarkLogic instance
+  * Built queries for analytics
+  * import/export data using MLCP
+  """
 
 +++
